@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Web Development**
 
-- 💬 Ask me about **HTML,CSS,JAVA,C,Python**
+- 💬 Ask me about **OOPS,JAVA,HTML,CSS,JAVASCRIPT**
 
 - 📫 How to reach me **nehay0853@gmail.com**
 
