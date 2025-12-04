@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **MERN Stack**
 
-- 💬 Ask me about **OOPS, JAVA, HTML, CSS, TAILWIND CSS, JAVASCRIPT**
+- 💬 Ask me about **Selenium, OOPS, JAVA, HTML, CSS, TAILWIND CSS, JAVASCRIPT**
 
 - 📫 How to reach me **nehay0853@gmail.com**
 
