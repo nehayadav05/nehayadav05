@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nehayadav05&label=Profile%20views&color=0e75b6&style=flat" alt="nehayadav05" /> </p>
 
-- 🌱 I’m currently learning **MERN Stack**
+- 🌱 I’m currently learning **Automation Testing**
 
 - 💬 Ask me about **Selenium, OOPS, JAVA, HTML, CSS, TAILWIND CSS, JAVASCRIPT**
 
