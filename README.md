@@ -92,9 +92,6 @@
 <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="40" height="40"/>
 </a>
 
-<a href="https://www.jetbrains.com/idea/" target="_blank">
-<img src="https://resources.jetbrains.com/storage/products/company/brand/logos/IntelliJ_IDEA_icon.png" width="40" height="40"/>
-</a>
 
 </p>
 
