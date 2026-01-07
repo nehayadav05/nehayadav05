@@ -11,7 +11,7 @@
 
 - 🌱 Currently growing in **Automation Testing**
 - 💬 Ask me about  
-  **Playwright | Selenium | Maven | TestNG | OOPS | Java | HTML | CSS | Tailwind CSS | JavaScript**
+  **Playwright | Selenium | Maven | TestNG | Cucumber | Java | HTML | CSS | Tailwind CSS | JavaScript**
 - 📫 Reach me at: **nehay0853@gmail.com**
 - ⚡ Fun fact: **I enjoy breaking software — so users don’t have to 😉**
 
